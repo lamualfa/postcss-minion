@@ -1,0 +1,13 @@
+{
+  "name": "postcss-minion",
+  "version": "1.0.0",
+  "description": "Use PostCSS as Minion Extractor",
+  "main": "index.js",
+  "repository": "https://github.com/lamualfa/postcss-minion",
+  "author": "La Ode Muhammad Al Fatih",
+  "license": "WTFPL",
+  "private": false,
+  "devDependencies": {
+    "postcss-rename": "^0.3.0"
+  }
+}

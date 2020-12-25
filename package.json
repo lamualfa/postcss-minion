@@ -7,6 +7,12 @@
   "author": "La Ode Muhammad Al Fatih",
   "license": "WTFPL",
   "private": false,
+  "keywords": [
+    "minion",
+    "minion-extractor",
+    "postcss",
+    "postcss-plugin"
+  ],
   "devDependencies": {
     "postcss-rename": "^0.3.0"
   }

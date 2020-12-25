@@ -25,7 +25,7 @@ Field name that will be used to store the Class Maps in the `global` object. Def
 
 ### `callback : (classMaps) => void`
 
-a function that will be called when classMaps is finished to generated.
+a function that will be called when [Class Maps](https://github.com/lamualfa/minion#class-maps) is finished to generated.
 
 ### and other options from `postcss-rename` plugin
 
